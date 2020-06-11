@@ -1,0 +1,22 @@
+{
+  "name": "handlerbyetzy",
+  "version": "1.0.0",
+  "description": "A command handler and event handler with examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Etzyy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.2",
+    "request-promise": "^4.2.5",
+    "request": "^2.88.2",
+    "noblox.js": "^4.6.1"
+  },
+  "engines": {
+    "node": "12.0.0"
+  }
+}
